@@ -1,6 +1,6 @@
-(ns tutorial.core-test
+(ns livecode.core-test
   (:require [clojure.test :refer :all]
-            [tutorial.core :refer :all]))
+            [livecode.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
